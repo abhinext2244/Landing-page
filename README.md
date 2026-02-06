@@ -8,7 +8,7 @@ typography.
 
 ## 🌐 Live Demo
 
-🔗 https://vercel.com/abhinext2244s-projects/landing-page
+🔗 https://landing-page-pi-orcin-26.vercel.app/
 
 ---
 
