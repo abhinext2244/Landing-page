@@ -11,7 +11,8 @@ typography.
 🔗 https://landing-page-pi-orcin-26.vercel.app/
 
 ---
-
+# git clone the repository
+https://github.com/abhinext2244/Landing-page.git
 ## 🎯 About The Project
 
 This project replicates the clean documentation-style layout of Cursor.
